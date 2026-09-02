@@ -20,14 +20,7 @@
 
 
 
-## 🐍 Contribution Heatmap & Activity
-
+<!-- 🐺 Black Wolf vs 🐍 Snake Contribution Race -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/blackwolferd/schedura-smart-travel-/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/blackwolferd/schedura-smart-travel-/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/blackwolferd/schedura-smart-travel-/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
+  <img src="https://raw.githubusercontent.com/blackwolferd/schedura-smart-travel-/main/assets/wolf_and_snake_race.svg" alt="Black Wolf and Snake Contribution Race" width="100%" />
 </div>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
