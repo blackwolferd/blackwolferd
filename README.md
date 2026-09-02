@@ -19,12 +19,7 @@
 
 ## 📡 Systems Horizon & Engineering Evolution
 
-<!-- 🛫 Live Radar Motion Visualizer (Desktop Agents -> Rail Transit -> Aviation Intelligence) -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/blackwolferd/schedura-smart-travel-/main/assets/aviation_radar_motion.svg" width="100%" alt="Aviation Radar and Horizon Telemetry" />
-</div>
 
-<br/>
 
 <div align="center">
 
