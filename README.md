@@ -20,7 +20,6 @@
 
 
 
-<!-- 🕹️ Classic Block-Style Contribution Snake -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/blackwolferd/schedura-smart-travel-/main/assets/snake_game_blocks.svg" alt="Classic Block Snake Contribution Hunter" width="100%" />
+  <img src="https://raw.githubusercontent.com/blackwolferd/schedura-smart-travel-/main/assets/snake_game_blocks.svg" alt="Block Snake Game" width="100%" />
 </div>
