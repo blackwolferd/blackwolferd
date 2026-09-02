@@ -20,7 +20,7 @@
 
 
 
-<!-- 🐺 Black Wolf vs 🐍 Snake Contribution Race -->
+<!-- 🕹️ Classic Block-Style Contribution Snake -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/blackwolferd/schedura-smart-travel-/main/assets/wolf_and_snake_race.svg" alt="Black Wolf and Snake Contribution Race" width="100%" />
+  <img src="https://raw.githubusercontent.com/blackwolferd/schedura-smart-travel-/main/assets/snake_game_blocks.svg" alt="Classic Block Snake Contribution Hunter" width="100%" />
 </div>
