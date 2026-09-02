@@ -1,10 +1,10 @@
 <div align="center">
 
 # 🐺 Syed Azeem Sadiq (`@blackwolferd`)
-### *AI & Machine Learning Engineer • Full-Stack Mobile Developer*
+### *AI & Machine Learning Engineer • Mobile Architect • Aerospace & Autonomous Systems*
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=39D353&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Syed+Azeem+Sadiq+%F0%9F%91%8B;AI+%26+Machine+Learning+Specialist+%F0%9F%A7%A0;Lead+Developer+of+Schedura+%F0%9F%9A%86;Building+Offline-First+Edge+Intelligence+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00FFCC&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Syed+Azeem+Sadiq+%F0%9F%91%8B;AI+%26+Autonomous+Systems+Engineer+%F0%9F%A7%A0;Lead+Developer+of+Schedura+%F0%9F%9A%86;Aviation+%26+Airspace+Intelligence+Researcher+%E2%9C%88%EF%B8%8F;From+Desktop+Voice+Agents+to+Avionics+Telemetry+%E2%9A%A1" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -17,36 +17,38 @@
 
 ---
 
-## 💫 About Me
+## 📡 Systems Horizon & Engineering Evolution
 
-* 🎓 **Academic Background:** CSE (Artificial Intelligence & Machine Learning) at Methodist College of Engineering & Technology, Hyderabad.
-* 🤖 **Core Focus:** Building intelligent edge systems, conversational AI parsers, and cross-platform mobile architecture.
-* 🚀 **Flagship Project:** Creator of **Schedura**, an offline-first smart travel companion with zero-latency deterministic scheduling.
-* 🎨 **Creative Side:** Urdu poetry writer, digital sketch artist, and intuitive storyteller.
-* 💼 **Status:** Actively open to Software Engineering, Mobile Architecture, and AI/ML Engineering opportunities!
+<!-- 🛫 Live Radar Motion Visualizer (Desktop Agents -> Rail Transit -> Aviation Intelligence) -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/blackwolferd/schedura-smart-travel-/main/assets/aviation_radar_motion.svg" width="100%" alt="Aviation Radar and Horizon Telemetry" />
+</div>
 
----
-
-## 🚀 Featured Projects
+<br/>
 
 <div align="center">
 
-| Project | Tech Stack | Highlights | Links |
-| :--- | :--- | :--- | :--- |
-| **🚆 [Schedura](https://github.com/blackwolferd/schedura-smart-travel-)** | React Native, Expo SDK 56, TypeScript, AsyncStorage | Offline-first train & hotel companion, 30-day availability heatmap, on-device AI intent parser, simulated checkout. | [**Repository**](https://github.com/blackwolferd/schedura-smart-travel-) • [**PRD**](https://github.com/blackwolferd/schedura-smart-travel-/blob/main/docs/PRD.md) • [**SRS**](https://github.com/blackwolferd/schedura-smart-travel-/blob/main/docs/SRS.md) |
-| **🐺 [WOLF-AI](https://github.com/blackwolferd/wolf)** | Python, Speech Recognition, Desktop Automation | Intelligent desktop voice agent capable of launching apps, executing tasks, file operations, and contextual chat. | [**Repository**](https://github.com/blackwolferd/wolf) |
-
-</div>
-
----
- | :--- | :--- | :--- |
-| **🚆 Schedura** | React Native, Expo SDK 56, TypeScript, AsyncStorage | Offline-first train & hotel search, 30-day availability heatmap, on-device AI intent parser, simulated booking checkout. | [**Repository**](https://github.com/blackwolferd/schedura-smart-travel-) • [**PRD**](https://github.com/blackwolferd/schedura-smart-travel-/blob/main/docs/PRD.md) • [**SRS**](https://github.com/blackwolferd/schedura-smart-travel-/blob/main/docs/SRS.md) |
+| Phase | Milestone | Domain & Architecture | Core Highlights | Status |
+| :--- | :--- | :--- | :--- | :---: |
+| 🕰️ **Origin (Past)** | **[WOLF-AI](https://github.com/blackwolferd/wolf)** | Desktop Automation & Voice Agents | Speech recognition, OS controls, autonomous app orchestration & context chat. | `ARCHIVED` |
+| 🚀 **Flagship (Current)** | **[Schedura](https://github.com/blackwolferd/schedura-smart-travel-)** | Smart Ground & Rail Transit | Offline deterministic hashing, 30-day demand heatmap, on-device NLP assistant & checkout. | `SHIPPED` |
+| ✈️ **Horizon (Upcoming)** | **AeroNav / Flight-AI** | Aerospace & Aviation Intelligence | ADS-B telemetry ingestion, Great-Circle geodesics, weather turbulence delay predictions & offline flight deck. | `IN FLIGHT` |
 
 </div>
 
 ---
 
-## 🐍 Real-Time Contribution Snake
+## 💫 About Me
+
+* 🎓 **Academic Background:** CSE (Artificial Intelligence & Machine Learning) at Methodist College of Engineering & Technology, Hyderabad.
+* 🤖 **Core Focus:** Building intelligent edge systems, autonomous voice agents, offline-first mobile apps, and aviation telemetry models.
+* ✈️ **Current Research:** Decoding ADS-B flight transponders, Great-Circle geodesic navigation, and predictive weather delay modeling.
+* 🎨 **Creative Dimension:** Urdu poetry writer, digital sketch artist, and intuitive storyteller.
+* 💼 **Opportunities:** Actively open to Software Engineering, Autonomous Systems, and AI/ML Engineering roles!
+
+---
+
+## 🐍 Live Contribution Snake (Real-Time Activity)
 
 <div align="center">
   <picture>
@@ -70,7 +72,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-### Machine Learning & Data Science
+### Machine Learning, Data & Aerospace
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -107,6 +109,6 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
   
   <p align="center" style="margin-top: 10px;">
-    <img src="https://komarev.com/ghpvc/?username=blackwolferd&style=flat-square&color=39D353" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=blackwolferd&style=flat-square&color=00FFCC" alt="Profile Views" />
   </p>
 </div>
