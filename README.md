@@ -27,12 +27,19 @@
 
 ---
 
-## 🚀 Featured Project: [Schedura Smart Travel](https://github.com/blackwolferd/schedura-smart-travel-)
+## 🚀 Featured Projects
 
 <div align="center">
 
 | Project | Tech Stack | Highlights | Links |
 | :--- | :--- | :--- | :--- |
+| **🚆 [Schedura](https://github.com/blackwolferd/schedura-smart-travel-)** | React Native, Expo SDK 56, TypeScript, AsyncStorage | Offline-first train & hotel companion, 30-day availability heatmap, on-device AI intent parser, simulated checkout. | [**Repository**](https://github.com/blackwolferd/schedura-smart-travel-) • [**PRD**](https://github.com/blackwolferd/schedura-smart-travel-/blob/main/docs/PRD.md) • [**SRS**](https://github.com/blackwolferd/schedura-smart-travel-/blob/main/docs/SRS.md) |
+| **🐺 [WOLF-AI](https://github.com/blackwolferd/wolf)** | Python, Speech Recognition, Desktop Automation | Intelligent desktop voice agent capable of launching apps, executing tasks, file operations, and contextual chat. | [**Repository**](https://github.com/blackwolferd/wolf) |
+
+</div>
+
+---
+ | :--- | :--- | :--- |
 | **🚆 Schedura** | React Native, Expo SDK 56, TypeScript, AsyncStorage | Offline-first train & hotel search, 30-day availability heatmap, on-device AI intent parser, simulated booking checkout. | [**Repository**](https://github.com/blackwolferd/schedura-smart-travel-) • [**PRD**](https://github.com/blackwolferd/schedura-smart-travel-/blob/main/docs/PRD.md) • [**SRS**](https://github.com/blackwolferd/schedura-smart-travel-/blob/main/docs/SRS.md) |
 
 </div>
